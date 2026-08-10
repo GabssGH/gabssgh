@@ -81,33 +81,13 @@ O objetivo é simples: mostrar de forma **organizada, moderna e responsiva** que
 
 > Sugestão: para cada repositório fixado no seu perfil, o GitHub já gera um card automático. Você pode fixar (*pin*) seus melhores projetos direto na página inicial do seu perfil (Customize your pins).
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabssGH&repo=NOME_DO_REPO&theme=dark#gh-dark-mode-only" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabssGH&repo=NOME_DO_REPO&theme=default#gh-light-mode-only" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabssGH&repo=OUTRO_REPO&theme=dark#gh-dark-mode-only" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GabssGH&repo=OUTRO_REPO&theme=default#gh-light-mode-only" />
-</a>
-
-</div>
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabssGH&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=GabssGH&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabssGH&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" alt="Top Languages" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabssGH&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabssGH&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabssGH&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabssGH&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
