@@ -75,14 +75,6 @@ O objetivo é simples: mostrar de forma **organizada, moderna e responsiva** que
 
 > Esta seção se atualiza sozinha (commits, repositórios criados, issues) sem precisar editar o README manualmente — veja como configurar logo abaixo.
 
----
-
-## 🗂️ Projetos em destaque
-
-> Sugestão: para cada repositório fixado no seu perfil, o GitHub já gera um card automático. Você pode fixar (*pin*) seus melhores projetos direto na página inicial do seu perfil (Customize your pins).
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
