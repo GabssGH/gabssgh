@@ -1,0 +1,12 @@
+name: Atualizar atividade recente
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
