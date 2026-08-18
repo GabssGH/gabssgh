@@ -68,11 +68,6 @@ O objetivo é simples: mostrar de forma **organizada, moderna e responsiva** que
 
 ---
 
-## 📌 Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
